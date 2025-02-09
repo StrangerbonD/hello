@@ -33,6 +33,7 @@ void testCase(){
     d[b[i]]=a[i];
    }
    for(int i=1;i<=n;i++)cout<<mp[d[i]]<<" ";
+   cout<<"This is very important";
 
 }
 
